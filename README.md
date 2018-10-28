@@ -16,3 +16,20 @@ Dan disini juga ada pengamatan Data sebelumnya yang menunjukan kepada Orang yang
   <img  src="https://imgur.com/5BspaRi.jpg"  />
 </p> 
 
+# Fungsi Keanggotaan
+###	FK Pendapatan
+###	FK Hutang
+
+# FK BLT ( weighted average  )
+Metode ini berlaku untuk fuzzy set dengan fungsi dan hasil output simetris keanggotaan hasil sangat dekat dengan metode COA(Centroid of Area). Metode ini kurang intensif secara komputasi. Setiap fungsi keanggotaan ditimbang dengan nilai keanggotaan maksimumnya. Nilai defuzzifikasi adalah didefinisikan sebagai: 
+
+Di sini Σ menunjukkan penjumlahan aljabar dan x adalah elemen dengan keanggotaan  maksimum fungsi. 
+
+#	Fuzzy Rule
+           Hutang
+
+Pendapatan	Sangat rendah	rendah	sedang	tinggi
+rendah	Tidak	Tidak	Ya	Ya
+sedang	Tidak	Tidak	Ya	Ya
+tinggi	Tidak	Tidak	Tidak	Ya
+
