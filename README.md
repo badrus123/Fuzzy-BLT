@@ -19,26 +19,34 @@ Dan disini juga ada pengamatan Data sebelumnya yang menunjukan kepada Orang yang
 # Fungsi Keanggotaan
 ###	FK Pendapatan
 #### ini adalah merupakan data rule dari pendapatan
+
 <p align="left">
   <img  src="https://imgur.com/wQErczo.jpg"  />
 </p> 
+
 #### ini adalah merupakan data histogram 
+
 <p align="left">
   <img  src="https://imgur.com/L6nu5Nc.jpg"  />
 </p> 
 ###	FK Hutang
 #### ini adalah merupakan data rule dari Hutang
+
 <p align="left">
   <img  src="https://imgur.com/MTRXipa.jpg"  />
 </p> 
+
 #### ini adalah merupakan data histogram 
+
 <p align="left">
   <img  src="https://imgur.com/FJrqrKD.jpg"  />
 </p> 
 
 # FK BLT ( weighted average  )
 Metode ini berlaku untuk fuzzy set dengan fungsi dan hasil output simetris keanggotaan hasil sangat dekat dengan metode COA(Centroid of Area). Metode ini kurang intensif secara komputasi. Setiap fungsi keanggotaan ditimbang dengan nilai keanggotaan maksimumnya. Nilai defuzzifikasi adalah didefinisikan sebagai: 
-
+ <p align="left">
+  <img  src="https://imgur.com/uwLqGlX.jpg"  />
+</p> 
 Di sini Σ menunjukkan penjumlahan aljabar dan x adalah elemen dengan keanggotaan  maksimum fungsi. 
 
 #	Fuzzy Rule
