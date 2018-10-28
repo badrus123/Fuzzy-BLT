@@ -29,6 +29,7 @@ Dan disini juga ada pengamatan Data sebelumnya yang menunjukan kepada Orang yang
 <p align="left">
   <img  src="https://imgur.com/L6nu5Nc.jpg"  />
 </p> 
+
 ###	FK Hutang
 #### ini adalah merupakan data rule dari Hutang
 
