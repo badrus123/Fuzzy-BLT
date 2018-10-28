@@ -13,6 +13,6 @@ Langkah – langkah:
 Dan disini juga ada pengamatan Data sebelumnya yang menunjukan kepada Orang yang layak mendapatkan BLT
 
 <p align="center">
-  <img  src="https://imgur.com/5BspaRi"  />
+  <img  src="https://imgur.com/5BspaRi.jpg"  />
 </p> 
 
